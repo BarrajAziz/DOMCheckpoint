@@ -1,0 +1,90 @@
+navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+.Products{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.Products1 {
+display: flex;
+background-color: blue;
+flex-wrap: nowrap;
+height: 300px;
+width: 400px;
+border-style: outset;
+border-radius: 6px;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+
+}
+
+.Products2 {
+    display: flex;
+    background-color: blue;
+    border-color: black;
+    flex-wrap: nowrap;
+    height: 300px;
+    width: 400px;
+    border-style: outset;
+    
+    border-radius: 6px;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border: 5px;
+    
+}
+
+.options{
+    display: flex;
+    width: 500px;
+    background-color: aqua;
+    align-items: center;
+    justify-content: space-around;
+}
+.btnn{
+    display: flex;
+    border: 5px;
+    width: 30px;
+    height: 20px;
+    background-color: rgb(219, 146, 146);
+}
+.buttons{
+    display: flex;
+    width: 100px;
+    border-radius: 7px;
+    background-color: yellow;
+    justify-content:space-between
+}
+
+.container{
+    display: flex;
+    width: 395px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.tt{
+    display: flex;
+    
+    justify-content: center;
+    align-content: center;
+    
+   font-size: large;
+}
+
+.somme{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: brown;
+}
+
+.heart {
+    font-size: 25px;
+      color:red;
+  }
